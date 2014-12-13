@@ -1,0 +1,12 @@
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\bin\Debug\SaveNameInArrayApp.exe.config
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\bin\Debug\SaveNameInArrayApp.exe
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\bin\Debug\SaveNameInArrayApp.pdb
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.Form1.resources
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.Properties.Resources.resources
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.csproj.GenerateResource.Cache
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.exe
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.pdb
+E:\Bristy\12.12.2014Projects\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.csprojResolveAssemblyReference.cache
+F:\Project_Bristy\12 Dec Do\SaveNameInArrayApp\SaveNameInArrayApp\bin\Debug\SaveNameInArrayApp.exe.config
+F:\Project_Bristy\12 Dec Do\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.exe
+F:\Project_Bristy\12 Dec Do\SaveNameInArrayApp\SaveNameInArrayApp\obj\Debug\SaveNameInArrayApp.pdb

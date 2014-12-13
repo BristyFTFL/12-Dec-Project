@@ -1,0 +1,9 @@
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\bin\Debug\TicketPurchaseApplication.exe.config
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\bin\Debug\TicketPurchaseApplication.exe
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\bin\Debug\TicketPurchaseApplication.pdb
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.csprojResolveAssemblyReference.cache
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.Form1.resources
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.Properties.Resources.resources
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.csproj.GenerateResource.Cache
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.exe
+E:\Bristy\12.12.2014Projects\TicketPurchaseApplication\TicketPurchaseApplication\obj\Debug\TicketPurchaseApplication.pdb
